@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cristian Ocampo Personal Website"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 

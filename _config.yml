@@ -11,9 +11,9 @@ title                    : "Cristian Ocampo, PhD"
 title_separator          : "-"
 name                     : &name "Cristian Ocampo"
 description              : &description "PhD in Signal and Image Processing"
-url                      : https://ocampobl.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ocampobl.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/ocampobl"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "Computer Vision and Machine Learning Enthusiast."
 #  location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ocampobl"
   google_plus      :
   keybase          :
   instagram        :

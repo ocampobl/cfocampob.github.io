@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cristian Ocampo"
-  avatar           : "profile.jpg"
+  avatar           : #"profile.jpg"
   bio              : "Computer Vision and Machine Learning Enthusiast."
 #  location         : "Location"
   employer         :

@@ -11,11 +11,11 @@ redirect_from:
 About Me:
 ======
 <p align="justify">
-I am a research engineer with extensive experience in computer vision and machine learning. I am passionate about task automation and anything related with the imaging field. On the imaging side, my field of expertise involves computational photography with applications to focus stacking, HDR like image synthesis, dense correspondence, etc. On the machine learning side, I have worked broadly on image classification, image segmentation and image matting by relying on deep learning.
+I am a research engineer with extensive experience in computer vision and machine learning. I am passionate about task automation and anything related with data and image processing. On the imaging side, my field of expertise involves computational photography with applications to focus stacking, HDR like image synthesis, dense correspondence, etc. On the machine learning side, I have worked broadly on image classification, image segmentation and image matting by relying on deep learning.
 </p>
 
 <p align="justify">  
-In recent years, I have worked in different technology companies with global impact, namely Meero and Huawei. In the first company, I have evolved from computer vision engineer to deep learning team leader for 3 years. In the second company, I am part of the Intelligent Computing and Communication team, whose goal is to propose new cutting-edge CNN technologies for devices with limited computational power, all using the fundamentals of artificial intelligence.
+During my years working in the industry, I have worked in different technology companies with global positive impact, namely Meero and Huawei. At Meero, I evolved from computer vision engineer to deep learning team leader for a period of more than 3 years. At Huawei, I am part of the Intelligent Computing and Communication team, whose goal is to propose new cutting-edge CNN technologies for devices with limited computational power, all using the fundamentals of artificial intelligence.
 </p>
   
 <!--

@@ -22,22 +22,22 @@ Education
       <em> Manuscript </em>
     </a>
 * M.S. in Industrial Automation, National University of Colombia - Manizales, 2011.
-  * Subject: <em> Skin Cancer Detection by Using Dermoscopy Images.</em>
+  * Subject: <em> Skin Cancer Diagnosis by Using Dermoscopy Images.</em>
 * B.S. in Electronic Engineering, National University of Colombia - Manizales, 2010.
 
 Work experience
 ======
 * April 2022: Research Engineer - Deep Learning.
   * Hauwei: Wireless Technology Lab.
-  * Duties included: Implementation and Development of CNN light-weight techniques for computationally limited devices.
+  * Duties: Implementation and Development of CNN light-weight techniques for computationally limited devices.
 
 * April 2020 - March 2021 : Team Lead - Computer Vision / Deep Learning
   * Meero
-  * Duties included: Supervise and guide a team of engineers on the development of projects involving computer vision and deep learning applied to image editing taks.
+  * Duties: Supervise and guide a team of engineers on the development of projects involving computer vision and deep learning applied to image editing taks.
 
 * Sept. 2018 - March 2021 : Research Engineer
   * Meero
-  * Duties included: Conduct research on computer vision and deep learning for pattern detection, object removal, segmentation and image synthesis.
+  * Duties: Conduct research on computer vision and deep learning for pattern detection, object removal, segmentation and image synthesis.
  
 <!--
 Skills

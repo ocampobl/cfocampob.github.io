@@ -1,22 +1,22 @@
 ---
 layout: archive
-title: "Professional and Academic Background"
-permalink: /cv/
+#title: "Professional and Academic Background"
+permalink: /cC/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 Education
 ======
 * Ph.D in Signal & Images, Telecom Paristech, 2018.
-  * Subject: Patch Based Image Fusion For Computational Photography.
+  * Subject: <em> Patch Based Image Fusion For Computational Photography.</em>
 * M.S. in Maths, Vision and Machine Learning (MVA), ENS Cachan, 2014.
-  * Subject: Decomposition Operators for the Tone Mapping of High Dynamic Range Images.   
+  * Subject: <em> Decomposition Operators for the Tone Mapping of High Dynamic Range Images.</em>
 * M.S. in Industrial Automation, National University of Colombia - Manizales, 2011.
-  * Subject: Skin Cancer Detection by Using Dermoscopy Images.  
+  * Subject: <em> Skin Cancer Detection by Using Dermoscopy Images.</em>
 * B.S. in Electronic Engineering, National University of Colombia - Manizales, 2010.
 
 Work experience

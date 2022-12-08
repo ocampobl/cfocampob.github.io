@@ -1,20 +1,23 @@
 ---
 layout: archive
-title: "CV"
+title: "Professional and Academic Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Education
 ======
-* B.S. in Electronic Engineering, National University of Colombia - Manizales, 2010
-* M.S. in Industrial Automation, National University of Colombia - Manizales, 2011
-* M.S. in Maths, Vision and Machine Learning (MVA), ENS Cachan, 2014
-* Ph.D in Signal & Images, Telecom Paristech, 2018
+* Ph.D in Signal & Images, Telecom Paristech, 2018.
+  * Subject: Patch Based Image Fusion For Computational Photography.
+* M.S. in Maths, Vision and Machine Learning (MVA), ENS Cachan, 2014.
+  * Subject: Decomposition Operators for the Tone Mapping of High Dynamic Range Images.   
+* M.S. in Industrial Automation, National University of Colombia - Manizales, 2011.
+  * Subject: Skin Cancer Detection by Using Dermoscopy Images.  
+* B.S. in Electronic Engineering, National University of Colombia - Manizales, 2010.
 
 Work experience
 ======

@@ -28,7 +28,7 @@ Education
 Work experience
 ======
 * April 2022: Research Engineer - Deep Learning.
-  * Hauwei: Wireless Technology Lab.
+  * Hauwei - Paris Research Center: Wireless Technology Lab.
   * Duties: Implementation and Development of CNN light-weight techniques for computationally limited devices.
 
 * April 2020 - March 2021 : Team Lead - Computer Vision / Deep Learning

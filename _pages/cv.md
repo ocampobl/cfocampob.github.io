@@ -38,7 +38,8 @@ Work experience
 * Sept. 2018 - March 2021 : Research Engineer
   * Meero
   * Duties included: Conduct research on computer vision and deep learning for pattern detection, object removal, segmentation and image synthesis.
-  
+ 
+<!--
 Skills
 ======
 * Skill 1
@@ -69,3 +70,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

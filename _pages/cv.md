@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Signal & Images, Telecom Paristech, 2018.
   * Subject: <em> Patch Based Image Fusion For Computational Photography.</em>
-  * <a href="https://github.com/ocampobl/home/blob/master/files/paper1.pdf" download>
+  * <a href="https://github.com/ocampobl/home/blob/master/files/Ocampo_PhD.pdf" download>
       <em> Manuscript </em>
     </a>
 * M.S. in Maths, Vision and Machine Learning (MVA), ENS Cachan, 2014.

@@ -1,7 +1,7 @@
 ---
 layout: archive
-#title: "Professional and Academic Background"
-permalink: /cC/
+title: "Professional and Academic Background"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -21,15 +21,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022: Research Engineer - Deep Learning.
+  * Hauwei: Wireless Technology Lab.
+  * Duties included: Implementation and Development of CNN light-weight techniques for computationally limited devices.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2020 - March 2021 : Team Lead - Computer Vision / Deep Learning
+  * Meero
+  * Duties included: Supervise and guide a team of engineers on the development of projects involving computer vision and deep learning applied to image editing taks.
+
+* Sept. 2018 - March 2021 : Research Engineer
+  * Meero
+  * Duties included: Conduct research on computer vision and deep learning for pattern detection, object removal, segmentation and image synthesis.
   
 Skills
 ======

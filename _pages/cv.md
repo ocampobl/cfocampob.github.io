@@ -18,7 +18,7 @@ Education
     </a>
 * M.S. in Maths, Vision and Machine Learning (MVA), ENS Cachan, 2014.
   * Subject: <em> Decomposition Operators for the Tone Mapping of High Dynamic Range Images.</em>
-  * <a href="https://github.com/ocampobl/home/blob/master/files/paper1.pdf" download>
+  * <a href="https://github.com/ocampobl/ocampobl.github.io/blob/master/files/MVA%20Report.pdf" download>
       <em> Manuscript </em>
     </a>
 * M.S. in Industrial Automation, National University of Colombia - Manizales, 2011.

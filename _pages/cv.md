@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional and Academic Background"
+#title: "Professional and Academic Background"
 permalink: /cv/
 author_profile: true
 redirect_from:

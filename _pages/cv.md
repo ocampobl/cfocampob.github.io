@@ -29,15 +29,15 @@ Work experience
 ======
 * April 2022: Research Engineer - Deep Learning.
   * Hauwei - Paris Research Center: Wireless Technology Lab.
-  * Duties: Implementation and Development of CNN light-weight techniques for computationally limited devices.
+  * Duties: Research, Implementation and Development of light-weight CNN's techniques for computationally limited devices.
 
 * April 2020 - March 2021 : Team Lead - Computer Vision / Deep Learning
   * Meero
-  * Duties: Supervise and guide a team of engineers on the development of projects involving computer vision and deep learning applied to image editing taks.
+  * Duties: Supervise and guide a team of engineers on the development of projects involving computer vision and deep learning applied to image editing tasks.
 
 * Sept. 2018 - March 2021 : Research Engineer
   * Meero
-  * Duties: Conduct research on computer vision and deep learning for pattern detection, object removal, segmentation and image synthesis.
+  * Duties: Conduct research on computer vision and deep learning applied to pattern detection, object removal, segmentation and image synthesis.
  
 <!--
 Skills
